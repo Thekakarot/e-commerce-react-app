@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-commerce-react-app/static/css/main.5f516301.css",
+    "main.js": "/e-commerce-react-app/static/js/main.a6aef177.js",
+    "static/media/jewellary.jpg": "/e-commerce-react-app/static/media/jewellary.5ac26d043f48ced3afcb.jpg",
+    "static/media/elect2.jpg": "/e-commerce-react-app/static/media/elect2.ce54afcb20d3cec3fec6.jpg",
+    "static/media/googleLogo.png": "/e-commerce-react-app/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "static/media/cloth1.jpg": "/e-commerce-react-app/static/media/cloth1.381bab100c4cec07d364.jpg",
+    "index.html": "/e-commerce-react-app/index.html",
+    "main.5f516301.css.map": "/e-commerce-react-app/static/css/main.5f516301.css.map",
+    "main.a6aef177.js.map": "/e-commerce-react-app/static/js/main.a6aef177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f516301.css",
+    "static/js/main.a6aef177.js"
+  ]
+}
